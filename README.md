@@ -29,3 +29,5 @@ The script will group fatsqs from all samples after the second '_'
 
 4. The modify the run.txt script to the dir with your data and ref genomes
 
+5. Next submit your job and check outputs
+
